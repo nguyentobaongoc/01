@@ -1,0 +1,283 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Document</title>
+    <link rel="stylesheet" href="style1.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <style>
+        .container_BS {
+            width: 1000px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .tabs {
+            width: 58%;
+            float: left;
+            display: flex;
+            position: relative;
+            background-color: #79BCCB;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+        }
+
+        .tab-item {
+            min-width: 100px;
+            padding: 10px;
+            font-size: 20px;
+            text-align: center;
+            opacity: 0.5;
+        }
+
+            .tab-item:hover {
+                opacity: 1;
+            }
+
+            .tab-item active {
+                opacity: 1;
+            }
+
+        .tab-content {
+            width: 58%;
+            float: left;
+            margin-top: 0px;
+        }
+
+        .tab-pane {
+            text-align: justify;
+            display: none;
+            padding-top: 5px;
+            padding-left: 20px;
+        }
+
+            .tab-pane.active {
+                display: block;
+            }
+
+        .active {
+            background-color: white;
+            padding-left: 0px;
+            padding-right: 20px;
+            padding-bottom: 20px;
+        }
+
+        .tab-pane h2, .tab-pane p {
+            margin-left: 20px;
+        }
+    </style>
+    
+</head>
+<body>
+    <div class="logo">
+        <img src="pixlr-bg-result.png" alt="">
+    </div>
+    <div class="navbar">
+        <ul>
+            <li><div class="btn from-top"><a href="Gioithieu.html" class="from-top">GIỚI THIỆU</a></div></li>
+        </ul>
+        <ul>
+            <li>
+                <div class="btn from-top"><a href="Nike.html">NIKE</div></a>
+                <ul>
+                    <li><a href="Nike_Nam.html">Nam</a></li>
+                    <li><a href="Nike_Nu.html">Nữ</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <div class="btn from-top"><a href="Adidas.html" class="from-top">ADIDAS</a></div>
+                <ul>
+                    <li><a href="Adidas_Nam.html">Nam</a></li>
+                    <li><a href="Adidas_Nu.html">Nữ</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <div class="btn from-top"><a href="JORDAN.html">JORDAN</a></div>
+                <ul>
+                    <li><a href="AIR JORDAN.html">AIR JORDAN</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <div class="btn from-top"><a href="YEEZY.html">YEEZY</a></div>
+                <ul>
+                    <li><a href="YEEZY BOOTS 350.html">YEEZY BOOTS 350</a></li>
+                    <li><a href="YEEZY BOOTS 700.html">YEEZY BOOTS 700</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <div class="btn from-top"><a href="Other brand.html">OTHER BRANDS</a></div>
+                <ul>
+                    <li><div class="t1"><a href="Sneaker authentic.html">SNEAKER AUTHENTIC</a></div></li>
+                    <li><div class="t1"><a href="GIÀY THỂ THAO CHẠY BỘ TẬP GYM.html">GIÀY THỂ THAO CHẠY BỘ TẬP GYM</a></div></li>
+                    <li><div class="t1"><a href="Giày tennis chính hãng.html">GIÀY TENNIS CHÍNH HÃNG</a></div></li>
+                    <li><div class="t1"><a href="DÉP AUTHENTIC.html">DÉP AUTHENTIC</a></div></li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li><div class="btn from-top"><a href="#">SALE</a></div></li>
+        </ul>
+        <ul>
+            <li><div class="btn from-top"><a href="#">LIÊN HỆ</a></div></li>
+        </ul>
+        <ul>
+            <li>
+                <div class="btn from-top"><a href="#">search</a></div>
+                <ul>
+
+                    <li>
+                        <div id="search">
+                            <form>
+                                <input type="text" name="search" placeholder="Search..">
+                                <button type="submit"></button>
+                            </form>
+                        </div>
+                    </li>
+
+                </ul>
+            </li>
+        </ul>
+
+    </div>
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col">
+                <img src="adidas-continental-80-j-white-navy-scarlet-f99787.jpg" style="width:600px; height:600px" />
+            </div>
+            <div class="col">
+                <p style="font-size: 15px; margin-top: 50px;"> <a href="menu1.html" class="text-decoration-none" style="font-size:15px">Trang chủ</a> >> <a href="Adidas.html" class="text-decoration-none" style="font-size:15px">Adidas</a> >> Giày nữ adidas Continental 80 J ‘White Navy Scarlet’ F99787</p>
+                <h2> Giày nữ adidas Continental 80 J ‘White Navy Scarlet’ F99787 </h2>
+                <br />
+                <h3 class="old_money"> <del> 5.890.000đ </del> </h3><br />
+                <h3 style="text-align: center; font-size: 18px; background-color: red; color: white;width:10%;max-height:20px;float:left;margin-top:10px;"> 7% </h3>
+                <h3 class="money" style="color:red; margin-top:13px;margin-left:50px;margin-bottom:20px;">5.490.000đ</h3><br />
+                <div class="card">
+                    <div class="card-body" style="font-size: 18px; font-family: 'Playfair Display', serif; ">
+                        <br />
+                        &ensp;VÌ SAO CHỌN OK<br />
+                        <ul>
+                            <li>
+                                Tặng phiếu bảo hiểm giày và vệ sinh giày 6 tháng trị giá 350K
+                            </li>
+                            <li>
+                                Mua tất giảm ngay 20%
+                            </li>
+                            <li>
+                                Cam kết chính hãng 100%
+                            </li>
+                            <li>
+                                Miễn phí đổi trả 365 ngày
+                            </li>
+                            <li>
+                                Miễn phí bảo hành 1 năm trên toàn hệ thống
+                            </li>
+                            <li>
+                                Độc quyền phân phối tại OK
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <h3 style="font-size: 18px; font-family: 'Playfair Display', serif;float:left;margin-top:20px; ">Size</h3>
+                <div class="dropdown" style="margin-left: 150px; width: 3%; max-height: 20px;float:left;margin-top:20px;">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        36
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                        <li><a class="dropdown-item" href="#">37</a></li>
+                        <li><a class="dropdown-item" href="#">38</a></li>
+                        <li><a class="dropdown-item" href="#">39</a></li>
+                    </ul>
+                </div>
+                <div style="margin-top:100px;">
+                    <a href="#"><button type="button" class="btn btn-primary btn-lg" style="width:200px;height:50px;background-color:orange">Mua ngay</button></a>
+                    <a href="#"><button type="button" class="btn btn-secondary btn-lg" style="width:200px;height:50px;">Thêm vào giỏ</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col">
+                <div class="card" style="margin-top:100px;">
+                    <div class="card-body" style="font-size: 18px; font-family: 'Playfair Display', serif; ">
+                        <div class="container_BS">
+                            <div class="tabs" style="margin-left:200px;">
+                                <div class="tab-item active">
+                                    Description
+                                </div>
+
+                                <div class="tab-item">
+                                    Thông tin bổ sung
+                                </div>
+
+                                <div class="tab-item">
+                                    Đánh giá
+                                </div>
+                            </div>
+
+                            <div class="tab-content" style="margin-left:200px;">
+                                <div class="tab-pane active">
+                                    <h2>
+                                        Description
+                                    </h2>
+                                    <p>
+                                        Được thiết kế bởi Bruce Kilgore vào năm 1982 với ý tưởng đặt tên từ chiếc chuyên cơ chuyên chở tổng thống mỹ AIR FORCE ONE , AF1 đã nhanh chóng trở thành đôi giày mang tính cách mạng trong giới sneaker, sản phẩm được bán hết trong một thời gian kỷ lục. Cho dù đã gần 40 năm trôi qua NIKE AIR FORCE 1 vẫn đem lại hàng trăm triệu USD hàng năm cho NIKE.
+                                        <br /><a href="AIR JORDAN.html">Air Force 1</a> là 1 trong những sneaker định hướng đầu tiên của Nike. Đây sẽ luôn luôn là đôi giày thể thao bóng rổ đầu tiên có công nghệ đệm Air mang tính cách mạng của Swoosh bên trong gót chân của nó, và cũng là thử nghiệm đầu tiên của nó với kết cấu chống trượt – một quy trình vẫn được sử dụng cho đến ngày nay trong sản xuất giày thể thao. Nhưng đáng chú ý nhất, AF1 sẽ là bước đột phá đầu tiên của nhà thiết kế huyền thoại Nike Bruce Kilgore vào thế giới thiết kế giày thể thao bóng rổ.
+                                    </p>
+                                </div>
+
+                                <div class="tab-pane">
+                                    <h2> Thông tin bổ sung</h2>
+                                    <p> Được thiết kế bởi Bruce Kilgore vào năm 1982 với ý tưởng đặt tên từ chiếc chuyên cơ chuyên chở tổng thống mỹ AIR FORCE ONE , AF1 đã nhanh chóng trở thành đôi giày mang tính cách mạng trong giới sneaker, sản phẩm được bán hết trong một thời gian kỷ lục. Cho dù đã gần 40 năm trôi qua NIKE AIR FORCE 1 vẫn đem lại hàng trăm triệu USD hàng năm cho NIKE.
+                                </div>
+
+                                <div class="tab-pane">
+                                    <h2> Đánh giá </h2>
+                                    <p>
+                                        Trường Đại học Công nghiệp Thực phẩm TP. Hồ Chí Minh là cơ sở giáo dục, đào tạo đa ngành, đa lĩnh vực, đa cấp độ và có thế mạnh trong lĩnh vực khoa học và công nghệ thực phẩm:
+                                        <br />- Đào tạo nhân lực có đạo đức, tri thức và kỹ năng đáp ứng yêu cầu của xã hội;
+                                        <br />- Đẩy mạnh nghiên cứu khoa học, chuyển giao công nghệ và phát triển dịch vụ;
+                                        <br />- Thực hiện trách nhiệm xã hội, phục vụ cộng đồng và hội nhập quốc tế.
+                                    </p>
+                                </div>
+
+                            </div>
+                            <div style="clear:both;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        const tabs = document.querySelectorAll(".tab-item");
+        const panes = document.querySelectorAll(".tab-pane");
+
+        tabs.forEach(function (tab, index) {
+            const pane = panes[index];
+            tab.addEventListener("click", function () {
+                document.querySelector(".tab-item.active").classList.remove("active");
+                document.querySelector(".tab-pane.active").classList.remove("active");
+
+                this.classList.add("active");
+                pane.classList.add("active");
+            })
+
+        })
+    </script>
+
+</body>
+</html>
