@@ -1,0 +1,55 @@
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe.config
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.pdb
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.Properties.Resources.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.csproj.GenerateResource.Cache
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.pdb
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmNhanVien.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmLogin.resources
+C:\Users\PC THAO\OneDrive\Tài liệu\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmKhachHang.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe.config
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.pdb
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.pdb
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.csprojResolveAssemblyReference.cache
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmKhachHang.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmNhanVien.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmLogin.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNXB.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.Properties.Resources.resources
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Documents\ZALO\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.csproj.GenerateResource.Cache
+C:\Users\PC THAO\Downloads\Ngọc\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe.config
+C:\Users\PC THAO\Downloads\Ngọc\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\Downloads\Ngọc\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe.config
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmAdmin.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmKhachHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmNhanVien.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmLogin.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNhapKH.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNhapSach.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNXB.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmPhieuNhap.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmSach.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmTaiKhoan.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThanhToan_Login.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThemKhachHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmThongKe_BaoCao.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThongKe_TonKho.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_MuaHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.Properties.Resources.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.csproj.GenerateResource.Cache
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\BLL.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\DAL.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\DTO.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\BLL.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\DAL.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\DTO.pdb

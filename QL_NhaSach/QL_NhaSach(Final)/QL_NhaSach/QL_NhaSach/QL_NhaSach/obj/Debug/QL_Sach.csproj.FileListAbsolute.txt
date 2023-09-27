@@ -1,0 +1,65 @@
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmKhachHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmNhanVien.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmLogin.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNhapSach.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmPhieuNhap.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmSach.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmTaiKhoan.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThanhToan_Login.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThemKhachHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmThongKe_BaoCao.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThongKe_TonKho.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_MuaHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.Properties.Resources.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_Sach.csproj.GenerateResource.Cache
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe.config
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.pdb
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.GUI.frmThemNhanVien.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.GUI.frmThemChucVu.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_Main.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_ThemTheLoai.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_NXB.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmXemChiTietPN.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_ChiTietPhieuNhap.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_NhapKhachHang.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmHoaDon.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNCC.resources
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_Sach.csprojResolveAssemblyReference.cache
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC THAO\OneDrive\Máy tính\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_Report.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe.config
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.exe
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.pdb
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_Sach.csprojResolveAssemblyReference.cache
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmHoaDon.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNCC.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmXemChiTietPN.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_NhapKhachHang.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_NXB.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_Report.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_ThemTheLoai.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmKhachHang.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmNhanVien.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmLogin.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmNhapSach.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmPhieuNhap.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmSach.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmTaiKhoan.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThanhToan_Login.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.GUI.frmThemChucVu.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThemKhachHang.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.GUI.frmThemNhanVien.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.FrmThongKe_BaoCao.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frmThongKe_TonKho.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_ChiTietPhieuNhap.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_Main.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.frm_MuaHang.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.Properties.Resources.resources
+D:\KÌ 5\NM CÔNG NGHỆ PHẦN MỀM\QL_NhaSach(Final_soonnnnn)\QL_NhaSach(Final)\QL_NhaSach\QL_NhaSach\QL_NhaSach\obj\Debug\QL_Sach.csproj.GenerateResource.Cache

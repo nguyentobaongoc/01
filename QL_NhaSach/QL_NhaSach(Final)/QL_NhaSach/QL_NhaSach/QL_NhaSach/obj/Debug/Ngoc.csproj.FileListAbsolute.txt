@@ -1,0 +1,3 @@
+C:\Users\PC THAO\Downloads\Ngọc\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe.config
+C:\Users\PC THAO\Downloads\Ngọc\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.exe
+C:\Users\PC THAO\Downloads\Ngọc\QL_NhaSach\QL_NhaSach\obj\Debug\QL_NhaSach.pdb
